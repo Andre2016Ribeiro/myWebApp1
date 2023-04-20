@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+nGeu+E4f6oUSXrAGPcSyDgBqh9aCgcy6F46zD7g45myPox+dVGYcXusQSOkvir3ARUNiqizpf2Vpe81o1c9Fw==",
+  "dgSpecHash": "xvNjVEJWhmC2niKW9YFSs7yMFxsWTtTz4furjzYZ+7hdp3wvjgXw8Rm83thdHxEo6JoPsjmXAEtQ/SlDowl3lg==",
   "success": true,
-  "projectFilePath": "C:\\Galileu\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "C:\\Galileu\\myWebApp\\myWebApp1\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
